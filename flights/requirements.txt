@@ -1,0 +1,6 @@
+functions-framework==3.*
+SQLAlchemy
+PyMySQL
+pandas
+pysqlite3-binary
+requests

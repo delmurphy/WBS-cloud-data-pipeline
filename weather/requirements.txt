@@ -1,0 +1,8 @@
+functions-framework
+SQLAlchemy
+PyMySQL
+pandas
+pysqlite3-binary
+requests
+bs4
+lat_lon_parser
