@@ -187,7 +187,7 @@ pip install -r requirements.txt
 
     - API keys (where required)
 
-2. Run the notebook or scripts inside the cities/ directory.
+2. Run the `pipeline_local.ipynb` notebook inside the `cities/` directory.
 
 3. Tables will be created and populated in Cloud SQL.
 
