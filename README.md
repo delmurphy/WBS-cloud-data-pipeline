@@ -196,7 +196,7 @@ pip install -r requirements.txt
 
 1. Set required environment variables (API keys and DB credentials).
 
-2. Deploy weather/ and flights/ as separate Cloud Functions.
+2. Deploy `weather/` and `flights/`as separate Cloud Functions.
 
 3. Create Cloud Scheduler jobs to trigger execution at defined intervals.
 
